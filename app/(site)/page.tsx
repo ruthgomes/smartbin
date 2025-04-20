@@ -123,11 +123,11 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="md:w-1/2">
               <Image
-                src="/placeholder.svg?height=400&width=600"
+                src="/lixeira.jpeg"
                 alt="História da SmartBin"
                 width={600}
                 height={400}
-                className="rounded-lg shadow-lg"
+                className=""
               />
             </div>
             <div className="md:w-1/2 space-y-6">
@@ -135,21 +135,30 @@ export default function Home() {
                 Nossa História
               </h3>
               <p className="text-gray-700">
-                A SmartBin nasceu em 2018 a partir da visão de um grupo de
-                engenheiros e ambientalistas preocupados com o crescente
-                problema de gestão de resíduos nas cidades brasileiras.
+                sistema de lixeira seletora inteligente, denominado SmartBin,
+                capaz de automatizar a separação de resíduos em três categorias
+                principais: papel, plástico e metal, utilizando tecnologia de
+                sensores para identificação e classificação adequada dos
+                materiais descartados.
               </p>
               <p className="text-gray-700">
-                Percebemos que muitas lixeiras de reciclagem eram esvaziadas em
-                momentos inadequados - algumas quando ainda estavam pela metade,
-                desperdiçando recursos, e outras quando já estavam
-                transbordando, causando poluição.
+                A relevância desta pesquisa fundamenta-se na crescente
+                problemática da gestão inadequada de resíduos sólidos, que
+                contribui significativamente para a degradação ambiental e o
+                esgotamento de recursos naturais.
               </p>
               <p className="text-gray-700">
-                Foi então que desenvolvemos um sistema inteligente de
-                monitoramento que utiliza sensores para medir o nível de
-                enchimento das lixeiras e alertar as equipes de coleta no
-                momento ideal para o recolhimento.
+                O baixo índice de reciclagem no país está diretamente
+                relacionado às dificuldades na separação correta dos materiais,
+                processo que frequentemente gera confusão e erros quando
+                realizado manualmente. A SmartBin apresenta-se como uma solução
+                tecnológica acessível para este desafio, facilitando o processo
+                de coleta seletiva e potencializando a quantidade de material
+                efetivamente reciclado, o que justifica sua importância como
+                ferramenta de promoção da sustentabilidade ambiental.
+                Abordaremos primeiramente os fundamentos teóricos relacionados à
+                gestão de resíduos e tecnologias de automação, seguido pela
+                metodologia empregada no desenvolvimento do protótipo.
               </p>
             </div>
           </div>
