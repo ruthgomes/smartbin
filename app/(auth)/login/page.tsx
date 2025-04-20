@@ -142,12 +142,6 @@ export default function LoginPage() {
             >
               {isLoading ? "Entrando..." : "Entrar"}
             </Button>
-
-            <div className="text-center text-sm text-gray-600 mt-4">
-              <p>Credenciais para demonstração:</p>
-              <p>Email: {DEMO_CREDENTIALS.email}</p>
-              <p>Senha: {DEMO_CREDENTIALS.password}</p>
-            </div>
           </form>
         </div>
       </div>
