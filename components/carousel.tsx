@@ -7,27 +7,35 @@ import { Button } from "@/components/ui/button"
 
 const carouselImages = [
   {
-    src: "/placeholder.svg?height=400&width=600",
+    src: "/placa1.jpeg",
     alt: "Fase inicial do projeto SmartBin",
-    caption: "Fase inicial do projeto - Planejamento e design",
   },
   {
-    src: "/placeholder.svg?height=400&width=600",
+    src: "/placa2.jpeg",
     alt: "Desenvolvimento dos protótipos",
-    caption: "Desenvolvimento dos protótipos das lixeiras inteligentes",
   },
   {
-    src: "/placeholder.svg?height=400&width=600",
+    src: "/placa3.jpeg",
     alt: "Testes em campo",
-    caption: "Testes em campo com os primeiros usuários",
   },
   {
-    src: "/placeholder.svg?height=400&width=600",
+    src: "/placa4.jpeg",
     alt: "Implementação em larga escala",
-    caption: "Implementação em larga escala em áreas urbanas",
   },
   {
-    src: "/placeholder.svg?height=400&width=600",
+    src: "/placa5.jpeg",
+    alt: "Projeto finalizado",
+  },
+  {
+    src: "/placa6.jpeg",
+    alt: "Projeto finalizado",
+  },
+  {
+    src: "/lixeira1.jpeg",
+    alt: "Projeto finalizado",
+  },
+  {
+    src: "/lixeira2.jpeg",
     alt: "Projeto finalizado",
     caption: "Projeto finalizado e em operação",
   },
